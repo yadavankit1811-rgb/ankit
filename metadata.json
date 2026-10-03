@@ -1,0 +1,6 @@
+{
+  "name": "Holding Hub",
+  "description": "India's Local Advertising Marketplace for hoardings, billboards, unipoles, and outdoor advertising spaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
